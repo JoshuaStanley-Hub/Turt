@@ -5,4 +5,4 @@ This repository includes the CAD (.step and .f3d) and code (.ino) files for Turt
 
 The CAD and code for the remote control can be found in its own repository at https://github.com/JoshuaStanley-Hub/Robot-Remote
 
-Videos outlining the design and assembly of Turt can be found at https://youtu.be/3pQIoKpHZ1E
+A video outlining the design and assembly of Turt can be found at https://youtu.be/3pQIoKpHZ1E
